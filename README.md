@@ -1,50 +1,22 @@
-# Nome_da_Aplicação
+# Jogo da Velha
 
 <!--- Exemplos de badges. Acesse https://shields.io para outras opções. Você pode querer incluir informações de dependencias, build, testes, licença, etc. --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/hsborges/progweb-template)
 ![GitHub contributors](https://img.shields.io/github/contributors/hsborges/progweb-template)
 
-Nome_da_Aplicação é um/uma ... que permite/tem por objetivo/visa/etc .... 
 
-Coloque aqui linhas adicionais com informações sobre o que a aplicação faz. Sua introdução deve ser de no máximo 3 parágrafos, seja simples e objetivo para não sobrecarregar de detalhes desnecessários este espaço. Se necessário, crie novas seções abaixo.
 
 ## Pré-requisitos
 
-Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
-<!--- Estes são alguns exemplos de requisitos. Adicione, duplique e remove como necessário --->
-* Você deve possuir a última versão do `<linguagem/dependencia/etc>` instalado.
-* Você deve possuir uma máquina `<Windows/Linux/Mac>`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
-* Você deve ler o `<guia/link/documentação>` dos termos de uso.
-* (outros ...)
+A definir
 
 ## Como executar
 
-Para fazer o deploy da aplicação siga os seguintes passos:
+A definir
 
-Linux e/ou macOS:
-```
-<commando 1>
-<commando 2>
-....
-<commando n>
-```
+## Usando Jogo da Velha
 
-Windows (opcional):
-```
-<commandos>
-```
-
-## Usando Nome_da_Aplicação
-
-Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
-
-* Abra o navegador e digite o seguinte endereço: `http://localhost/....`
-* Ao abrir a aplicação você poderá:
-  * Navegar pelo conteúdo público, ou
-  * Entrar com usuário e senha para ....
-* *Continua ...*  
-
-*Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
+A definir
 
 ## Contribuidores
 
@@ -56,6 +28,22 @@ As seguintes pessoas contribuiram para este projeto:
 
 ## Licença de uso
 
-<!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
-Este projeto usa a seguinte licença: [<nome_da_licenca>](<link>).
-*Você também deve criar um arquivo chamado LICENSE no projeto*
+Copyright (c) <year> <copyright holders>
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
